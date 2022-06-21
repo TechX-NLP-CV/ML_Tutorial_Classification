@@ -13,5 +13,5 @@ This is the tutorial for the classification in the machine learning, which could
 ## Tutorial Materials
 Please follow the preview material and go through all the codes in detal.
 
-- Quick Link to [Notebook](https://github.com/techx-cv/Machine_Learning_Tutorial_Regression/blob/main/Notebook/regression.ipynb)
-- Quick Link to [Instruction](https://github.com/techx-cv/Machine_Learning_Tutorial_Regression/blob/main/Instruction/Regression.pdf)
+- Quick Link to [Notebook](https://github.com/techx-cv/Machine_Learning_Tutorial_Classification/blob/main/Notebook/Classification.ipynb)
+- Quick Link to [Instruction](https://github.com/techx-cv/Machine_Learning_Tutorial_Classification/blob/main/Instruction/Classification.pdf)
